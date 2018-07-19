@@ -1,0 +1,17 @@
+G:\2017至今\github\Golden\RazorPagesMovie
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=RazorPagesMovie
+--content-root=G:\2017至今\github\Golden\RazorPagesMovie
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\About.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Contact.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Error.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Index.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Movies\Create.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Movies\Delete.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Movies\Details.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Movies\Edit.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\Movies\Index.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\_Layout.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\_ValidationScriptsPartial.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\_ViewImports.cshtml
+--file=G:\2017至今\github\Golden\RazorPagesMovie\Pages\_ViewStart.cshtml

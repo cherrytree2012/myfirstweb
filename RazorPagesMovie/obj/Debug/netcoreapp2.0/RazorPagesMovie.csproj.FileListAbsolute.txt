@@ -1,0 +1,11 @@
+G:\2017至今\github\Golden\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.deps.json
+G:\2017至今\github\Golden\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.json
+G:\2017至今\github\Golden\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.dev.json
+G:\2017至今\github\Golden\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.dll
+G:\2017至今\github\Golden\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.pdb
+G:\2017至今\github\Golden\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+G:\2017至今\github\Golden\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfoInputs.cache
+G:\2017至今\github\Golden\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfo.cs
+G:\2017至今\github\Golden\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.dll
+G:\2017至今\github\Golden\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.pdb
+G:\2017至今\github\Golden\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.csprojAssemblyReference.cache
