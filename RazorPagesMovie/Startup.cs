@@ -86,7 +86,7 @@ namespace RazorPagesMovie
             //允许访问wwwroot文件夹下的静态文件
             app.UseStaticFiles();
 
-
+                 
             app.UseMvc();
         }
     }
